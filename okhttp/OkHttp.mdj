@@ -4,25 +4,6 @@
 	"name": "OkHttp",
 	"ownedElements": [
 		{
-			"_type": "UMLModel",
-			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
-			"_parent": {
-				"$ref": "AAAAAAFF+h6SjaM2Hec="
-			},
-			"name": "Model",
-			"ownedElements": [
-				{
-					"_type": "UMLClassDiagram",
-					"_id": "AAAAAAFF+qBtyKM79qY=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "Main",
-					"defaultDiagram": true
-				}
-			]
-		},
-		{
 			"_type": "UMLCollaboration",
 			"_id": "AAAAAAFmigIV4nATu8U=",
 			"_parent": {
@@ -5042,7 +5023,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFmigIV4nATu8U="
 					},
-					"name": "Role1"
+					"name": "Role1",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -5050,7 +5032,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFmigIV4nATu8U="
 					},
-					"name": "Role2"
+					"name": "Role2",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -5058,7 +5041,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFmigIV4nATu8U="
 					},
-					"name": "Role3"
+					"name": "Role3",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -5066,7 +5050,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFmigIV4nATu8U="
 					},
-					"name": "Role4"
+					"name": "Role4",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -5074,7 +5059,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFmigIV4nATu8U="
 					},
-					"name": "Role5"
+					"name": "Role5",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -5082,7 +5068,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFmigIV4nATu8U="
 					},
-					"name": "Role6"
+					"name": "Role6",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -5090,7 +5077,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFmigIV4nATu8U="
 					},
-					"name": "Role7"
+					"name": "Role7",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -5098,7 +5086,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFmigIV4nATu8U="
 					},
-					"name": "Role8"
+					"name": "Role8",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -5106,7 +5095,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFmigIV4nATu8U="
 					},
-					"name": "Role9"
+					"name": "Role9",
+					"type": ""
 				}
 			]
 		}
